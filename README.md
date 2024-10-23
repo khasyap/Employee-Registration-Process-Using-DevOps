@@ -1,4 +1,4 @@
-# Employee Registration Process - README
+# Employee Registration Process
 
 ## Introduction
 This program is an **Employee Registration Process** tool implemented in Python using `pandas` and `matplotlib`. It allows users to perform various operations on employee data, including CRUD (Create, Read, Update, Delete) operations, finding statistical relations, performing basic dataframe operations, and visualizing data through various types of charts.
